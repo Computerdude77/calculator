@@ -9,4 +9,5 @@ int main(int argc, char *argv[])
 		value+=atoi(argv[i]);
 	}
 	cout << value << endl;
+	return value;
 }
